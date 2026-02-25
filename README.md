@@ -37,7 +37,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/soumyaranjan bhoi"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+<a href="https://www.linkedin.com/in/soumyaranjan-bhoi/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 <a href="https://instagram.com/im_soumya_06"><img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/></a>
 <a href="https://fb.com/soumyaranjan bhoi"><img src="https://img.icons8.com/color/48/facebook.png" width="40"/></a>
 </p>
