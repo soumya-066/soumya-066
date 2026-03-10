@@ -76,13 +76,13 @@
 
 ---
 
-### 🔥 Extra Coding Animation
+### 🔥 Hardworking
 
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
 </p>
 
-## 🚀 Extra Animation
+## 🚀 Focus on my work
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="520">
